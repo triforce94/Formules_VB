@@ -1,0 +1,11 @@
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\bin\Debug\Formules.exe.config
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\bin\Debug\Formules.exe
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\bin\Debug\Formules.pdb
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\bin\Debug\Formules.xml
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\obj\Debug\Formules.vbprojResolveAssemblyReference.cache
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\obj\Debug\Formules.Form1.resources
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\obj\Debug\Formules.Resources.resources
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\obj\Debug\Formules.vbproj.GenerateResource.Cache
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\obj\Debug\Formules.exe
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\obj\Debug\Formules.xml
+c:\users\aprat\documents\visual studio 2015\Projects\Formules\Formules\obj\Debug\Formules.pdb

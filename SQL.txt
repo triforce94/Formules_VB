@@ -1,0 +1,24 @@
+USE formules
+
+CREATE TABLE formules(
+codi_f int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+nom varchar(10) NOT NULL,
+data date,
+activa varchar(10) NOT NULL,
+quantitat_total int
+)
+
+CREATE TABLE composicions(
+codi_c int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+codi_f int NOT NULL,
+codi_e int NOT NULL,
+quantitat int,
+FOREIGN KEY (codi_f) REFERENCES formules(codi_f),
+FOREIGN KEY (codi_e) REFERENCES element(codi_e)
+)
+
+CREATE TABLE element(
+codi_e int IDENTITY(1,1) NOT NULL PRIMARY KEY,
+nom varchar(10) NOT NULL,
+data date
+)
